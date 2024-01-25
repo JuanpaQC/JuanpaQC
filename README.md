@@ -24,7 +24,7 @@
 <!--Intro start-->
 - 💻 I am currently studying a bachelor's degree in **Software Engineering.**
 
-- 📚 Study in **Technologico de Costa Rica.**
+- 📚 Study in **Tecnologico de Costa Rica.**
 
 - ☁️ My biggest goal is to be a **Full Stack Developer.**
 
