@@ -44,7 +44,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JuanpaQC&theme=transparent_icons=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JuanpaQC&theme=transparent&show_icons=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanpaQC&theme=dark&hide_border=false" /> 
 </td>
