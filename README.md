@@ -9,7 +9,8 @@
   </ul>
 </div>
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!--h2 without bottom border-->
@@ -21,20 +22,18 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 💻 I am currently studying a bachelor's degree in **Software Engineering.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 📚 Study in **Technology of Costa Rica.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ My biggest goal is to be a **Full Stack Developer.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📸 I am a **Nature Photographer** by hobby.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 🇨🇷 I'm from **Costa Rica.**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **jpqcaballero@gmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-<!--Intro end-->
 
 
 
