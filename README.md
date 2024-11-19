@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,idea,java,cpp,kotlin,mongodb,mysql,nodejs,postman,py,react,vscode,arduino,androidstudio,netlify,sqlite,visualstudio,apple,cpp,firebase,gcpwindows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,idea,java,cpp,kotlin,mongodb,mysql,nodejs,postman,py,react,vscode,arduino,androidstudio,netlify,sqlite,visualstudio,apple,firebase,gcpwindows&perline=14" />
   </a>
 </p>
 
